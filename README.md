@@ -9,11 +9,11 @@
 
 ---
 
-# Time to Complete projact
+# Time to Complete project
 > around 1 hours.
 
-## 🚀  Projact Live Link <br>
+## 🚀  Project Live Link <br>
 ---
-This projact is been hosted on netlify. [Live Projact Link](https://jazzy-salmiakki-3d5453.netlify.app)
+This project is been hosted on netlify. [Live Project Link](https://jazzy-salmiakki-3d5453.netlify.app)
 
 ![HELP WEB PAGE](/HelpWeb-page.png)
