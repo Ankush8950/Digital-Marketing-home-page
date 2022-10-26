@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.contaainer {
+  width: auto;
+  height: auto;
+}
+
+.navbar-container {
+  width: auto;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  margin: 0 100px; 
+  position: relative;
+  padding-top: 10px;
+}
+
+.navbar-container div > img {
+  margin-right: 50px;
+  width: 100px;
+}
+
+.grow-list > .list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+.grow-list > .list > .list-item {
+  margin: 10px;
+  color: rgb(144, 142, 142);
+  font-size: 13px;
+}
+
+.grow-list > .list > .list-item:nth-child(1) {
+  font-weight: 600;
+  color: black;
+}
+
+.button-group > .nav-button {
+  position: absolute;
+  right: 30px;
+  top: 0px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(61, 61, 160);
+  color: white;
+}
+
+.banner-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+
+div > .heading-text {
+  font-size: 65px;
+  color: rgb(47, 47, 94);
+  line-height: 70px;
+  
+}
+.heading-text span {
+  color: rgb(112, 112, 244);
+}
+
+.description {
+  width: 350px;
+  margin-top: 30px;
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(149, 149, 149);
+  word-spacing: 1px;
+}
+
+.nav-button{
+  margin-top: 30px;
+  padding: 10px 25px;
+  font-size: 10px;
+  background-color: rgb(61, 61, 160);
+  border: none;
+  color: white;
+  border-radius: 5px;
+} 
+.banner-container > div > img {
+  margin-top: 40px;
+  width: 700px;
+  height: 430px;
+}
