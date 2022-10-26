@@ -14,6 +14,6 @@
 
 ## 🚀  Projact Live Link <br>
 ---
-This projact is been hosted on netlify. [Live Projact Link]()
+This projact is been hosted on netlify. [Live Projact Link](https://jazzy-salmiakki-3d5453.netlify.app)
 
 ![HELP WEB PAGE](/HelpWeb-page.png)
